@@ -1,6 +1,6 @@
 # vanilla.js
 
-[![NPM](https://nodei.co/npm/vanilla-javascript.png)](https://nodei.co/npm/vanilla-javascript/)
+[![NPM](https://nodei.co/npm/vanilla-javascript.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/vanilla-javascript/)
 
 Most famous JavaScript framework.
 
