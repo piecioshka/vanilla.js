@@ -1,20 +1,20 @@
 {
-    "name": "vanilla-javascript",
-    "version": "1.0.0",
-    "description": "Most famous JavaScript framework",
-    "author": "Piotr Kowalski <piecioshka@gmail.com> (http://piecioshka.pl/)",
-    "keywords": [
-        "vanilla",
-        "javascript",
-        "framework",
-        "funny",
-        "joke",
-        "famous"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "http://github.com/piecioshka/vanilla.js.git"
-    },
-    "license": "MIT",
-    "main": "vanilla.js"
+  "name": "vanilla-javascript",
+  "version": "1.0.1",
+  "description": "Most famous JavaScript framework",
+  "author": "Piotr Kowalski <piecioshka@gmail.com> (http://piecioshka.pl/)",
+  "keywords": [
+    "vanilla",
+    "javascript",
+    "framework",
+    "funny",
+    "joke",
+    "famous"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/piecioshka/vanilla.js.git"
+  },
+  "license": "MIT",
+  "main": "vanilla.js"
 }
