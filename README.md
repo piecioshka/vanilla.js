@@ -4,7 +4,7 @@
 ![](https://img.shields.io/npm/dt/vanilla-javascript.svg)
 ![](https://img.shields.io/npm/l/vanilla-javascript.svg)
 
-🌴 Most famous JavaScript framework.
+🌴 The most famous JavaScript framework.
 
 ## Install
 
@@ -15,9 +15,13 @@ npm install vanilla-javascript
 ## Usage
 
 ```js
+// CommonJS
 require('vanilla-javascript');
 
-// do awesome things!
+// ECMAScript Modules
+import 'vanilla-javascript';
+
+// ...do awesome things!
 ```
 
 ## License
