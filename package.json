@@ -1,7 +1,8 @@
 {
     "name": "vanilla-javascript",
-    "version": "1.1.1",
     "description": "The most famous JavaScript framework",
+    "version": "1.1.1",
+    "license": "MIT",
     "author": {
         "name": "Piotr Kowalski",
         "email": "piecioshka@gmail.com",
@@ -19,6 +20,8 @@
         "type": "git",
         "url": "git@github.com:piecioshka/vanilla.js.git"
     },
-    "license": "MIT",
-    "main": "vanilla.js"
+    "engines": {
+        "node": ">=0.0.1"
+    },
+    "main": "./vanilla.js"
 }
