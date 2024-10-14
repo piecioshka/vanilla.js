@@ -27,4 +27,4 @@ import 'vanilla-javascript';
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2013
+[The MIT License](https://piecioshka.mit-license.org) @ 2013
