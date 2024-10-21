@@ -8,6 +8,18 @@
         "email": "piecioshka@gmail.com",
         "url": "https://piecioshka.pl/"
     },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/piecioshka/vanilla.js.git"
+    },
+    "engines": {
+        "node": ">=0.0.1"
+    },
+    "files": [
+        "vanilla.js",
+        "README.md",
+        "package.json"
+    ],
     "keywords": [
         "vanilla",
         "javascript",
@@ -16,12 +28,5 @@
         "joke",
         "famous"
     ],
-    "repository": {
-        "type": "git",
-        "url": "git+ssh://git@github.com/piecioshka/vanilla.js.git"
-    },
-    "engines": {
-        "node": ">=0.0.1"
-    },
     "main": "./vanilla.js"
 }
