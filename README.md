@@ -8,13 +8,13 @@
 
 🌴 The most famous JavaScript framework.
 
-## Install
+## Usage
+
+Installation:
 
 ```bash
 npm install vanilla-javascript
 ```
-
-## Usage
 
 ```js
 // CommonJS
